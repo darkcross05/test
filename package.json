@@ -1,0 +1,22 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "test for mocha",
+  "main": "test.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darkcross05/test.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Juan Pablo Mariaca.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darkcross05/test/issues"
+  },
+  "homepage": "https://github.com/darkcross05/test#readme"
+}
